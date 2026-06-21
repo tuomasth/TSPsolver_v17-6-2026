@@ -17,3 +17,9 @@ F5 SOM-NN-OPT:            Calculate the convex hull so its nodes (or edge centro
 F6 Super-OPT:      	      F2 for a couple of times, F4 once, F5 once, choose the best and try to improve with quick opts.
 
 F1:                       (About the Java application.)
+
+---
+
+Java must be installed, obviously, before executing the JAR file in the "dist" folder. https://www.oracle.com/java/technologies/downloads (21.6.2026)
+
+For editing the application, Apache NetBeans is recommended: https://netbeans.apache.org/front/main/index.html (21.6.2026)
