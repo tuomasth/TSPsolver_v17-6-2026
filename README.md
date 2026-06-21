@@ -20,6 +20,6 @@ F1:                       (About the Java application.)
 
 ---
 
-Java must be installed, obviously, before executing the JAR file in the "dist" folder. https://www.oracle.com/java/technologies/downloads (21.6.2026)
+Java must be installed, obviously, before executing the JAR file in the "dist" folder. "https://www.oracle.com/java/technologies/downloads" (21.6.2026)
 
-For editing the application, Apache NetBeans is recommended: https://netbeans.apache.org/front/main/index.html (21.6.2026)
+For editing the application, Apache NetBeans is recommended: "https://netbeans.apache.org/front/main/index.html" (21.6.2026)
