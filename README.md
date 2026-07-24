@@ -1,6 +1,8 @@
 Recommended Java JDK version: 17.0.12 or newer.
 This TSPsolver is an updated version of "https://github.com/tuomasth/TSPsolver_v14-3-2017".
 
+Repository version: 17.6.2026, its newest version is 2.4 (24.7.2026).
+
 ---
 
 F2 NNH:                   Nearest neighbour as the simplest heuristic there exists.
